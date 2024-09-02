@@ -1,7 +1,7 @@
 # E-commerce Back End
 An ExpressJS application that utilises npm module sequelize and pg to allow users to interface with a PostgreSQL database via a RESTful API.
 
-A demonstration of this application can be found [here](https://youtu.be/iHLjqjnwqvc)
+A demonstration of this application can be viewed [here](https://youtu.be/iHLjqjnwqvc).
 
 ## Table of Contents
 - [Installation](#installation)
