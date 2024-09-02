@@ -4,11 +4,25 @@ An ExpressJS application that utilises npm modules `sequelize` and `pg` to allow
 A demonstration of this application can be viewed [here](https://youtu.be/iHLjqjnwqvc).
 
 ## Table of Contents
+- [Resources](#resources)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contribution](#contribution)
 - [Questions](#questions)
+
+## Resources
+
+Outlined below are external and open source resources used to develop this application.
+
+| Resource | Description |
+| -------- | ----------- |
+| [NodeJS](https://nodejs.org/en) | Cross-platform JavaScript runtime environment |
+| [bun](https://bun.sh/) | Faster JavaScript runtime environment (npm/yarn alternative) |
+| [PostgreSQL](https://www.postgresql.org/) | Open source relational database application |
+| [node-postgres](https://www.npmjs.com/package/pg) | PostgreSQL client module for NodeJS |
+| [dotenv](https://www.npmjs.com/package/dotenv) | Environment variable loader package using .env files for NodeJS |
+| [sequelize](https://www.npmjs.com/package/sequelize) | NodeJS ORM tool used to connect to various database applications such as PostgreSQL, MySQL & MSSQL |
 
 ## Installation
 
